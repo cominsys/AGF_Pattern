@@ -23,7 +23,7 @@ This repo, named **AGF_Pattern**, contains the official implementation of our pa
 ## Getting Started
 ### 1. Clone the code and prepare the environment
 ```bash
-git clone 
+git clone https://github.com/cominsys/AGF_Pattern
 # install dependencies with pip
 pip install -r requirements.txt
 ```
